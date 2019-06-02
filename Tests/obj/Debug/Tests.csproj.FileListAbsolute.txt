@@ -1,0 +1,9 @@
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\bin\Debug\Tests.dll
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\bin\Debug\Tests.pdb
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\bin\Debug\Sudoku.exe
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\bin\Debug\Sudoku.pdb
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\obj\Debug\Tests.dll
+C:\Users\elena\OneDrive\Документы\Visual Studio 2015\Projects\C#\Sudoku\Tests\obj\Debug\Tests.pdb
